@@ -8,7 +8,7 @@ sudo apt-get install whois
 sudo apt-get install whatweb
 sudo apt-get install git
 git clone https://github.com/Pericena/webphoenix.git
-chmod 777 *.sh
+chmod 775 *.sh
 bash webphoenix.sh
 ```
 
